@@ -1,0 +1,7 @@
+[package]
+name = "toothless"
+version = "0.0.1"
+authors = ["Nick Zaccardi <nicholas.zaccardi@gmail.com>"]
+
+[dependencies.color]
+git = "https://github.com/bjz/color-rs.git"
